@@ -1,1 +1,1 @@
-# Static-Code-Analyzer
+This Static Code Analyser finds and sorts stylistic errors (according to PEP 8 rules) in the source files. When the program is called via a terminal, the path to a directory is specified as an argument, and the program analyses all files (.py) in the directory one by one. I use, among other things, an Abstract Syntax Tree and Regexs to find and check the relevant syntax/structure in the code.
